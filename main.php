@@ -10,3 +10,4 @@
 	remote = origin
 	merge = refs/heads/main
 	qwertyuio
+	function
