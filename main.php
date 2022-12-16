@@ -9,3 +9,4 @@
 [branch "main"]
 	remote = origin
 	merge = refs/heads/main
+	qwertyuio
